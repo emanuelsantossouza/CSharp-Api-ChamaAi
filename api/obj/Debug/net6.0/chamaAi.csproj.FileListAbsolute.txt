@@ -336,7 +336,6 @@ C:\Users\etec\Desktop\tcc\chamaAi\api\apiChamaAi\obj\Debug\net6.0\chamaAi.genrun
 C:\Users\etec\Desktop\tcc\chamaAi\api\apiChamaAi\obj\Debug\net6.0\ref\chamaAi.dll
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\appsettings.json
-C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\ionic.config.json
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\package-lock.json
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\chamaAi.exe
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\chamaAi.deps.json
@@ -355,7 +354,6 @@ C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\Pomelo.EntityFrame
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\chamaAi.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\chamaAi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\chamaAi.AssemblyInfoInputs.cache
@@ -372,3 +370,8 @@ C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\refint\chamaAi.dll
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\chamaAi.pdb
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\chamaAi.genruntimeconfig.cache
 C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\ref\chamaAi.dll
+C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\staticwebassets\msbuild.chamaAi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\staticwebassets\msbuild.build.chamaAi.props
+C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.chamaAi.props
+C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.chamaAi.props
+C:\Users\user\Desktop\CSharp-Api-ChamaAi\api\obj\Debug\net6.0\staticwebassets.pack.json
